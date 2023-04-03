@@ -3,4 +3,5 @@
 　（例）　アカウント名　TRAINOCAMP の場合は trainocamp.txt で別名で保存します。
 
 変更1
+変更2
  
